@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#BW"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:gray_concrete"
+        },
+        "B": {
+            "item": "minecraft:brown_concrete"
+        },
+        "W": {
+            "item": "minecraft:white_concrete"
+        }
+    },
+    "result": {
+        "item": "minecraft:arrow",
+        "count": 1
+    }
+}

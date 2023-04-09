@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "##G"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:light_gray_concrete"
+        },
+        "G": {
+            "item": "minecraft:green_concrete"
+        }
+    },
+    "result": {
+        "item": "minecraft:iron_axe",
+        "count": 1
+    }
+}

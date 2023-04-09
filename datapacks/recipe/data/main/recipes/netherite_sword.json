@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "D  "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:brown_concrete"
+        },
+        "D": {
+            "item": "minecraft:diamond_sword"
+        }
+    },
+    "result": {
+        "item": "minecraft:netherite_sword",
+        "count": 1
+    }
+}

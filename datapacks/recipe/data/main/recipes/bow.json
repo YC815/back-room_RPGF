@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "WWW"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:brown_concrete"
+        },
+        "W": {
+            "item": "minecraft:white_concrete"
+        }
+    },
+    "result": {
+        "item": "minecraft:bow",
+        "count": 1
+    }
+}

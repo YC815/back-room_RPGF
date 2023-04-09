@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "recipe": {
+            "trigger": "recipe_unlocked",
+            "conditions": {
+                "recipe": "main:totem_of_undying"
+            }
+        }
+    },
+    "rewards": {
+        "function": "main:totem_of_undying"
+    }
+}

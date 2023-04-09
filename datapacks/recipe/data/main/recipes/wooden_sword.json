@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "G  "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:brown_concrete"
+        },
+        "G": {
+            "item": "minecraft:green_concrete"
+        }
+    },
+    "result": {
+        "item": "minecraft:wooden_sword",
+        "count": 1
+    }
+}
